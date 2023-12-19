@@ -2,5 +2,5 @@
 MSU MM 5 course.
 
 - HW1: ARD regression. EM-algorithm.
-- HW2:
+- HW2: Log-Derivative trick. VAE. Mean-field approximation.
 - HW3:
