@@ -1,4 +1,4 @@
-# Bayesian-ML
+# Bayesian-Methods-of-ML
 MSU MM 5 course.
 
 - HW1: ARD regression. EM-algorithm.
